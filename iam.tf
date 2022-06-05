@@ -1,5 +1,5 @@
-resource "aws_iam_user" "osetiku" {
+resource "aws_iam_user" "of" {
   name = osetikufred
-  path = "/system/"
+  path =  "/"
   
 }
